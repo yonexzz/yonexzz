@@ -1,4 +1,6 @@
-### Hi, I'm Fajar 
+ <p align="center">
+Hi, I'm Fajar 😁</p>
+
 
 <!--
 **yonexzz/yonexzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
