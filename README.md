@@ -1,4 +1,4 @@
- <p align="center">
+ <p align="center" style="font-size:20px">
 Hi, I'm Fajar 😁</p>
 
 
