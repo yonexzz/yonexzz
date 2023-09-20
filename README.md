@@ -1,5 +1,7 @@
- <p align="center" style="font-size:20px">
-Hi, I'm Fajar 😁</p>
+ <div><h1 align="center">
+Hi, I'm Fajar 😁</h1>
+<h3 align="center> Loading.... </h3>
+</div>
 
 
 <!--
